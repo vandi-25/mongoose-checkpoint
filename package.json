@@ -1,0 +1,17 @@
+{
+  "name": "mongoose-checkpoint",
+  "version": "1.0.0",
+  "description": "Mongoose checkpoint: CRUD operations on a Person model",
+  "main": "myApp.js",
+  "scripts": {
+    "start": "node run.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "mongodb": "^4.17.2",
+    "mongoose": "^6.13.12"
+  }
+}
